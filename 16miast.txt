@@ -1,0 +1,24 @@
+#  Podaj współrzędne dowolnych 16 miast w Polsce
+#  Pamiętając, żeby ze względu na przeskalowanie mapy
+#  od długości geograficznej odjąć 0,83
+#  a szerokość geograficzną przemnożyć przez dwa.
+#  
+#  Dopuszczalny zakres wartości:
+#  szerokość geofraficzna po przeskalowaniu 99 - 110
+#  długość geofraficzna 13 - 24
+13.53	107.46 
+16	105.40
+16.03	103.02
+17.04	102.05
+17.16	106.74
+17.84	109.12
+18.22	101.32
+18.76	104.24
+19.26	100.92
+19.74	108.06
+20.05	102.48
+20.52	105.02
+15.35	108.83
+22.17	103.33
+22.66	106.98
+14.23	106.08

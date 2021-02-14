@@ -1,0 +1,18 @@
+Koszalin  15.35	108.83
+
+Szczecin  13.53	107.46 
+Poznań    16	105.40
+Wrocław   16.03	103.02
+Opole     17.04	102.05
+Bydgoszcz 17.16	106.74
+Gdańsk    17.84	109.12
+Katowice  18.22	101.32
+Łódź      18.76	104.24
+Kraków    19.26	100.92
+Olsztyn   19.74	108.06
+Kielce    20.05	102.48
+Warszawa  20.52	105.02
+Rzeszów   21.7	101
+Lublin    22.17	103.33
+Białystok 22.66	106.98
+Gorzów    14.23	106.08
