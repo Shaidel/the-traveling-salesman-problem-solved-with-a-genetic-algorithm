@@ -1,12 +1,7 @@
-1.Wprowadzenie:
-Projekt skupia się na problemie komiwojażera, konkretnie na
-znalezieniu suboptymalnej trasy między miastami wojewódzkimi w Polsce. W projekcie wykorzystywany jest algorytm genetyczny.
+Projekt studencki zrealizowany w ramach przedmiotu Zastosowania Sztuznej Inteligencji
 
-Założenia programu:
--Liczba pokoleń: 300
--Wielkość populacji: 1000
--Współczynnik mutacji: 0.7
--Typ krzyżowania: Krzyżowanie po połowie obojga rodziców
--Współczynnik elitarności: 10%
+Rozwiązuje problem komiwojażera dla 16 miast wojewódzkich w Polsce (ale pozwale też poprzez edycję pliku 16 miast.txt na podanie współrzędnych innych 16 miast)
 
-(...)
+Prezentacja danych ma miejsce w sposób graficzny (dynamicznie wyznaczania trasa na mapie), tekstowy (wyliczanie suboptymalnej trasy w konsoli)
+
+Ponadto postęp optymalizacji jest prezentowany na bieżaco w trakcie działania programu w osobnym wykresie
